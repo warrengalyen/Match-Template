@@ -5,4 +5,4 @@ The template matching is based on the Euclidean distance traversed every pixel o
 calculates the Euclidean distance between the pixels centered on the pixel and the overlapping part of the template image.
 When the template graph grows larger, the calculation increases sharply, so I've used SSE optimizations.
 
-![](screenshot.png)
+![](screenshot.PNG)
