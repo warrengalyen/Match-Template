@@ -1,0 +1,5 @@
+LIBRARY MatchTemplate
+EXPORTS 
+MinMaxLoc @1
+MatchTemplate @2
+IP_FreeMatrix @3
